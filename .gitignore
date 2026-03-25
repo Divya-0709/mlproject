@@ -1,0 +1,10 @@
+
+target/
+dbt_packages/
+logs/
+profiles.yml/
+seeds/*.csv
+seeds/*.gz
+*.csv
+*.gz
+venv/
